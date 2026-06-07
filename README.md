@@ -1,15 +1,14 @@
 # Proyectos Python
 
-Repositorio personal para guardar mis proyectos, ejercicios y prácticas de **Python** mientras avanzo en programación, Linux, automatización y ciberseguridad.
+Repositorio personal para guardar mis proyectos, ejercicios y prácticas de **Python** mientras avanzo en Programación, Linux, y Ciberseguridad.
 
-La idea de este repositorio es tener un historial visible de aprendizaje: desde ejercicios básicos hasta scripts útiles para mi entorno Arch Linux, homelab y futuras prácticas de seguridad defensiva/ofensiva en laboratorios legales.
+La idea de este repositorio es tener un historial visible de aprendizaje: desde ejercicios básicos hasta scripts útiles para mi entorno Arch Linux,  y futuras prácticas de seguridad defensiva/ofensiva en laboratorios controlados.
 
 ## Objetivos
 
 - Practicar lógica de programación con Python.
 - Ordenar ejercicios por dificultad y tema.
-- Crear scripts útiles para Linux y automatización.
-- Aprender buenas prácticas: nombres claros, comentarios, funciones y estructura.
+- Crear scripts útiles para Hacking Etico
 - Construir portafolio técnico para GitHub.
 
 ## Estructura recomendada
@@ -41,7 +40,7 @@ La idea de este repositorio es tener un historial visible de aprendizaje: desde 
 | `proyectos/automatizacion` | Scripts para tareas repetitivas en Linux |
 | `proyectos/consola` | Programas que funcionan desde terminal |
 | `proyectos/archivos` | Lectura, escritura y organización de archivos |
-| `proyectos/ciberseguridad-labs` | Scripts educativos para laboratorios propios y legales |
+| `proyectos/ciberseguridad-labs` | Scripts para hacking |
 | `apuntes` | Notas personales de estudio |
 
 ## Cómo ejecutar un archivo Python
@@ -98,16 +97,6 @@ xd.py
 final_final_ahora_si.py
 ```
 
-## Seguridad y ética
-
-Este repositorio puede incluir scripts relacionados con ciberseguridad, pero solo para:
-
-- laboratorios propios;
-- máquinas virtuales propias;
-- plataformas legales como TryHackMe, Hack The Box u OverTheWire;
-- aprendizaje defensivo y educativo.
-
-No subir ni crear código para atacar sistemas reales sin autorización.
 
 ## Estado
 
